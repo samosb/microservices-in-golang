@@ -10,7 +10,6 @@ import (
 
 	"github.com/micro/go-micro"
 	pb "github.com/samosb/microservices-in-golang/consignment-service/proto/consignment"
-	//vesselProto "github.com/samosb/microservices-in-golang/vessel-service/proto/vessel"
 )
 
 const (
